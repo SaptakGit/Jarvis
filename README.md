@@ -1,2 +1,3 @@
-# Jarvis
-AI demo
+pip install pipwin
+pipwin install pyaudio
+pip install SpeechRecognition.
